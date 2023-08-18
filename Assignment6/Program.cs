@@ -3,7 +3,7 @@ using System.Data.SqlClient;
 
 namespace Assignment6
 {
-  
+  //Update,Delete,Insert and View data from DB 
     internal class Program
     {
         static SqlCommand cmd;
